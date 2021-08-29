@@ -1,5 +1,5 @@
 # FromBeyond
-From Beyond is a video game realized in unity. The game is an adventure, a form of escape room with missions, puzzles and obstacles.
+From Beyond is a video game realized in unity. The game is an adventure, a form of escape room with missions, riddles and obstacles.
 
 ![4](https://user-images.githubusercontent.com/57592450/131248195-168e6a72-5c28-4419-b73a-1c64fac751ac.png)
 
